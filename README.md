@@ -1,2 +1,2 @@
-# iOS-Applications
-Practicing the Tutorials and building the applications
+# Quiz App 
+Basic Quiz App with Data Model and MVC Design Pattern
